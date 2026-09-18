@@ -1,0 +1,6 @@
+# Core dependencies for NSE Market Data Downloader
+requests>=2.28.0
+
+# Testing framework
+pytest>=7.0.0
+
